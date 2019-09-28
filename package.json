@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Todd WebDev <webdevtodd@gmail.com> (http://www.toddrizzolo.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToddWebDev/react-webpack-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ToddWebDev/react-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ToddWebDev/react-webpack-boilerplate#readme"
 }
